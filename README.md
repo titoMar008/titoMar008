@@ -1,6 +1,6 @@
 ## Hi, I'm Marcos 👋
 
-
+I'm a software engineer student from Spain.
 
 ### Lenguajes learned
 
