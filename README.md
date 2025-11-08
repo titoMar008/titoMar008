@@ -20,7 +20,7 @@ I'm a software engineer student from Spain.
   <img src="https://skillicons.dev/icons?i=supabase,npm,pnpm,nodejs,docker,postgres,mongo&perline=7"/>
 </div>
 
-### Used Ides
+### Used IDEs
 
 <div>
   <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&perline=7"/>
