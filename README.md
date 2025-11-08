@@ -1,5 +1,7 @@
 ## Hi, I'm Marcos 👋
 
+
+
 ### Lenguajes learned
 
 <div>
@@ -9,13 +11,19 @@
 ### Frameworks learned
 
 <div>
-  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,postgres,mongo&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,spring,express&perline=7"/>
 </div>
 
 ### Tools learned
 
 <div>
-  <img src="https://skillicons.dev/icons?i=supabase,npm,pnpm,nodejs,docker&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=supabase,npm,pnpm,nodejs,docker,postgres,mongo&perline=7"/>
+</div>
+
+### Used Ides
+
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&perline=7"/>
 </div>
 
 ### Contact me
