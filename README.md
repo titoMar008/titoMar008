@@ -15,5 +15,11 @@
 ### Tools learned
 
 <div>
-  <img src="https://skillicons.dev/icons?i=supabase,npm,pnpm,nodejs&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=supabase,npm,pnpm,nodejs,docker&perline=7"/>
+</div>
+
+### Contact me
+<div>
+  <a href="https://www.linkedin.com/in/marcos-g-o/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"             alt="linkedin logo"  />
 </div>
